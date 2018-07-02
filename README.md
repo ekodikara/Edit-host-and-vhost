@@ -1,7 +1,7 @@
 # Edit-host-and-vhost
 Edit host file and apache vhost file using python.
 (just for fun)
- - this is very basic python file for beginners to understand the usage and py sytax and make things easier with Python!
+ - this is very basic python file for beginners to understand the usage and py sytax and make things easier with Python!!
 
 1. You need to edit these few lines first:
 
