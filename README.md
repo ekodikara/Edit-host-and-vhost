@@ -29,4 +29,5 @@ httpd_vhost_path = '/Applications/XAMPP/etc/extra/httpd-vhosts.conf'
 
 `sudo python pyhost mysample.domain` 
 
-    
+This will help to run pyhost from any directory
+https://unix.stackexchange.com/a/239994/271228
